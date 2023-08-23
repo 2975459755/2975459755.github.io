@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 1
+order: 4
 ---
 ## About Me
 I am a sophomore at SHNU whose name and major shall remain unknown.\
