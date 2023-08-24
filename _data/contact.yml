@@ -10,6 +10,11 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
+- type: QQ
+  icon: "fa-brands fa-qq"
+  url: 'tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2975459755'
+  noblank: true
+
 - type: rss
   icon: "fas fa-rss"
   noblank: true
