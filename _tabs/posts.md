@@ -1,5 +1,5 @@
 ---
 layout: home
-icon: fas fa-tags
+icon: fas fa-stream
 order: 0
 ---
