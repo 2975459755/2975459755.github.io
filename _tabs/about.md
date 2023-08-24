@@ -2,6 +2,8 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+
+mermaid: true
 ---
 ## About Me
 I am a sophomore at SHNU whose name and major shall remain unknown.\
