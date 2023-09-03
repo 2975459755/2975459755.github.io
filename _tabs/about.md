@@ -19,7 +19,7 @@ gantt
   winter break: milestone, w, 2024-01-14, 1m
 
   section math
-  18.06 			: crit, a, 07-25, 40d
+  18.06 			: crit, a, 07-25, 47d
   18.01 			: crit, b, after a, 20d
 
   section tech
