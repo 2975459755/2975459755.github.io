@@ -20,7 +20,8 @@ gantt
 
   section math
   18.06 			: crit, a, 07-25, 63d
-  18.01       : crit, b, 10-10, 30d
+  18.01       : crit, b, 10-01, 100d
+  EECS70      : crit, d, 10-12, 90d
 
   section tech
   CS61B 			:		61b,	07-31, 100d
