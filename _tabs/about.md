@@ -19,11 +19,12 @@ gantt
   winter break: milestone, w, 2024-01-14, 1m
 
   section math
-  18.06 			: crit, a, 07-25, 47d
+  18.06 			: crit, a, 07-25, 63d
+  18.01       : crit, b, 10-10, 30d
 
   section tech
-  CS61B 			:		61b,	07-31, 90d
+  CS61B 			:		61b,	07-31, 100d
 
   section other
-  Data8 			: active, d8, 07-25, 65d
+  Data8 			: active, d8, 07-25, 110d
 ```
