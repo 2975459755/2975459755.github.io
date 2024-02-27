@@ -7,7 +7,7 @@ mermaid: true
 ---
 I am a sophomore at SHNU whose name and major shall remain unknown. Since I finished my crash course on CS -- CS61A in July 2023, I've been self-learning open courses on CS, DS and math.
 
-Below is a diagram of my schedule. (This may not get rendered on phones)
+<!-- Below is a diagram of my schedule. (This may not get rendered on phones)
 
 ```mermaid
 gantt
@@ -28,4 +28,4 @@ gantt
 
   section other
   Data8 			: active, d8, 07-25, 110d
-```
+``` -->
